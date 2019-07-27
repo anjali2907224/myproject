@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "server"]
+	url = https://github.com/anjali2907224/testingproject
+	fetch = +refs/heads/*:refs/remotes/server/*
+[branch "master"]
+	remote = server
+	merge = refs/heads/master
