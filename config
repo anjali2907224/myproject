@@ -12,5 +12,5 @@
 	remote = server
 	merge = refs/heads/master
 [gui]
-	wmstate = normal
+	wmstate = zoomed
 	geometry = 893x435+25+25 175 196

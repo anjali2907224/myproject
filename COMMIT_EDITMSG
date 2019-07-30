@@ -1,1 +1,42 @@
-my first code
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'server/master'.
+#
+# Changes to be committed:
+#	modified:   pom.xml
+#	modified:   target/classes/META-INF/maven/AutomationTesting/MavenProject/pom.properties
+#	modified:   target/classes/META-INF/maven/AutomationTesting/MavenProject/pom.xml
+#	new file:   test-output/Default suite/Default test.html
+#	new file:   test-output/Default suite/Default test.xml
+#	new file:   test-output/Default suite/testng-failed.xml
+#	new file:   test-output/bullet_point.png
+#	new file:   test-output/collapseall.gif
+#	new file:   test-output/emailable-report.html
+#	new file:   test-output/failed.png
+#	new file:   test-output/index.html
+#	new file:   test-output/jquery-1.7.1.min.js
+#	new file:   test-output/junitreports/TEST-testcases.NewTest.xml
+#	new file:   test-output/navigator-bullet.png
+#	new file:   test-output/old/Default suite/Default test.properties
+#	new file:   test-output/old/Default suite/classes.html
+#	new file:   test-output/old/Default suite/groups.html
+#	new file:   test-output/old/Default suite/index.html
+#	new file:   test-output/old/Default suite/main.html
+#	new file:   test-output/old/Default suite/methods-alphabetical.html
+#	new file:   test-output/old/Default suite/methods-not-run.html
+#	new file:   test-output/old/Default suite/methods.html
+#	new file:   test-output/old/Default suite/reporter-output.html
+#	new file:   test-output/old/Default suite/testng.xml.html
+#	new file:   test-output/old/Default suite/toc.html
+#	new file:   test-output/old/index.html
+#	new file:   test-output/passed.png
+#	new file:   test-output/skipped.png
+#	new file:   test-output/testng-failed.xml
+#	new file:   test-output/testng-reports.css
+#	new file:   test-output/testng-reports.js
+#	new file:   test-output/testng-results.xml
+#	new file:   test-output/testng.css
+#
